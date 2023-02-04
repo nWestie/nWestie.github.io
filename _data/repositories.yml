@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - nWestie
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - nWestie/BalBotCLient
+  - nWestie/piLedBoard
+  - nWestie/BalanceBot
+  - nWestie/ClimberJavaGame
+  - nWestie/nWestie.github.io
