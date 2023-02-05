@@ -185,6 +185,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - _news
+  - _projects
+  - _bibliography
+  - _posts
 keep_files:
   - CNAME
   - .nojekyll
