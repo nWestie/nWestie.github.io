@@ -7,8 +7,5 @@ nav: true
 nav_order: 3
 # redirect: /assets/pdf/resume.pdf
 ---
-## Resume: 
-
-<iframe src="{{ site.url }}{{ site.baseurl }}/assets/pdf/resume.pdf" width="1000" height="1000"></iframe>
-
-after
+Download: [resume.pdf](/assets/pdf/resume-Noah-West.pdf){:target="_blank"}
+<iframe src="{{ site.url }}{{ site.baseurl }}/assets/pdf/resume-Noah-West.pdf" width="800" height="900"></iframe>
