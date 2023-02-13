@@ -14,7 +14,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<tab/>Noah has long had an interest in machines, computers, and most things mechanical. Currently studying Mechanical Engineering at Grove City College, he also has minors in Robotics and Computer Science. Before college, Noah persued robotics as a hobby, learning mechanics, electronics, and programming first with Lego Mindstorms, then the Arduino Framework.
+<tab/>Noah has long had an interest in machines, computers, and most things mechanical. Currently studying Mechanical Engineering at Grove City College, he also has minors in Robotics and Computer Science. Before college, Noah persued robotics as a hobby, learning mechanics, electronics, and programming first with Lego Mindstorms, then the Arduino Framework. 
 
 Noah is particularly facinated with intersection mechanical, electrical, and computational systems, and hopes to persue a career in energy systems or robotics.
 
+He also has a background in Technical Theater, designing and building sets throughout high school, and working in the 
