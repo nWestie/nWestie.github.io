@@ -3,7 +3,7 @@ layout: page
 title: Bio-mimetic Hand
 description: As a final project for my CAD course, my group created a human-like hand actuated by strings.
 img: assets/img/handcad/asm-white.png
-importance: 1
+importance: 2
 ---
 <div class="row justify-content-sm-center">
     <div class="col-md-8 mt-3 mt-md-0">
