@@ -3,8 +3,9 @@ layout: page
 title: Rumors
 description: Designed and built a set for Neil Simon's <i>Rumors</i>
 img: assets/img/rumors/stgL-empty.jpg
-importance: 1
+importance: 2
 ---
+
 {% include figure.html path="assets/img/rumors/stgL-empty.jpg" title="Close up view of completed set" class="img-fluid rounded z-depth-1" %}
 
 My senior year of high school, I had the opportunity to design and build a set for York Suburban Trojan Theatre's production of <i>Our Town</i> by Neil Simon. With input student leadership and faculty directors, I designed the set from the description in the script and a number of reference photos we found. 
@@ -40,7 +41,7 @@ With a team of 6 other students, I led the construction of the set in the weeks 
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rumors/set-portrait.jpg" title="Self portriat on the set" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/rumors/set-portrait.jpg" title="Self portrait on the set" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
