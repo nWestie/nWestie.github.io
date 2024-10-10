@@ -3,7 +3,7 @@ layout: page
 title: Cycloid Clock
 description: A customed designed clock based on a cycloidal drive.
 img: assets/img/cycloid/thumbnail.png
-importance: 2
+importance: 3
 ---
 -----
 ## Motivation
