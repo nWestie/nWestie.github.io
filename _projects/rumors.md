@@ -8,7 +8,7 @@ importance: 3
 -----
 {% include figure.liquid path="assets/img/rumors/stgL-empty.jpg" title="Close up view of completed set" class="img-fluid rounded z-depth-1" %}
 
-My senior year of high school, I had the opportunity to design and build a set for York Suburban Trojan Theatre's production of <i>Our Town</i> by Neil Simon. The show is set in a grand 1980s mansion, and I was tasked with capturing this aestetic. With input from our other student leaders and faculty directors, I designed the set from the description provided by the script and a number of reference photos we found from other productions of this farce. 
+My senior year of high school, I had the opportunity to design and build a set for York Suburban Trojan Theatre's production of <i>Our Town</i> by Neil Simon. The show is set in a grand 1980s mansion, and I was tasked with capturing this aesthetic. With input from our other student leaders and faculty directors, I designed the set from the description provided by the script and a number of reference photos we found from other productions of this farce. 
 
 After settling on the style and layout, I made a detailed 2D layout of the set in Fusion 360. From there, I expanded the model into 3D to plan the actual construction of the set. From this structural model, I made drawings to use when constructing the set.
 
@@ -28,7 +28,7 @@ After settling on the style and layout, I made a detailed 2D layout of the set i
         {% include figure.liquid path="assets/img/rumors/drawp7.png" title="Balcony drawing with banister spacings" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-The design work was not done all at once, but overlapped somewhat with construction as the schedule was quite tight. Once deciding on an initial floorplan, I designed the framing for the walls, and from there we began construction. I led a team of 4-6 other students for the construction, working from the plans I generated and parallelizing the process as much as possible to finish before the show. Alongside this construction work, I continued to design the details of the set, laying out the stairs, entry-window, and bannisters so that once the walls were complete we moved on to these details.
+The design work was not done all at once, but overlapped somewhat with construction as the schedule was quite tight. Once deciding on an initial floor-plan, I designed the framing for the walls, and from there we began construction. I led a team of 4-6 other students for the construction, working from the plans I generated and parallelizing the process as much as possible to finish before the show. Alongside this construction work, I continued to design the details of the set, laying out the stairs, entry-window, and banisters so that once the walls were complete we moved on to these details.
 <div class="row justify-content-sm-center">
     <div class="col-sm-9 align-self-center">
         {% include figure.liquid path="assets/img/rumors/construction-1.jpg" title="Set viewed from center house" class="img-fluid rounded z-depth-1" zoomable=true %}

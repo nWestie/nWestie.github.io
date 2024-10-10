@@ -25,7 +25,7 @@ Our group choose to make a roughly human-scale bio-mimetic hand, actuated by str
     </div>
 </div>
 
-The bent thumb joint was especially challanging, as the features needed to be placed at odd angles, and I wanted to design it to be paremetric enough to change the thumb-angle without completely redesigning the piece. The design of these joints was quite iterative, and we used our CAD assembly of the hand to inform the design of each component, deciding how far each finger joint should be able to rotate based on how close to the palm they would get when assembled and curled.
+The bent thumb joint was especially challenging, as the features needed to be placed at odd angles, and I wanted to design it to be parametric enough to change the thumb-angle without completely redesigning the piece. The design of these joints was quite iterative, and we used our CAD assembly of the hand to inform the design of each component, deciding how far each finger joint should be able to rotate based on how close to the palm they would get when assembled and curled.
 
 
 I also was responsible for assembling the components of our prototype, which was fully 3D printed except for commonly available cotton cord and elastic band. The design worked nearly as intended when we printed our first prototype - shown below - although because of the somewhat generous tolerances we used when designing, the fingers opened a bit further then expected. To opperate the device, strings run through the loops on the palm-side of the hand to be pulled by an actuator in the wrist, and elastic returns the fingers to an open position. 

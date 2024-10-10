@@ -11,7 +11,7 @@ importance: 7
 <br/>
 
 ## Overview
-This project was the result of suddenly having large amounts of free time as the world initially shut down for COVID in 2020. Some people baked bread, I decided to build a robot. The NXT platform was what I had available at the time, and I built a cartesian gantry capible with a mount for a whiteboard pen.
+This project was the result of suddenly having large amounts of free time as the world initially shut down for COVID in 2020. Some people baked bread, I decided to build a robot. The NXT platform was what I had available at the time, and I built a cartesian gantry capable with a mount for a whiteboard pen.
 
 The heart of the project was the code - I used [NXC](https://bricxcc.sourceforge.net/nbc/), a C based language and compiler built for the NXT, and wrote custom software to read G-code from a file and control the motion of the plotter. I used Fusion 360 to generate G-code, and it handles nearly all of the commands commonly used by 3D printers.
 
