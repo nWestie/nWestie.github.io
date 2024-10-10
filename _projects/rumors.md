@@ -3,7 +3,7 @@ layout: page
 title: Rumors Set
 description: Designed and built a set for Neil Simon's <i>Rumors</i>
 img: assets/img/rumors/stgL-empty(thumb).jpg
-importance: 2
+importance: 3
 ---
 -----
 {% include figure.liquid path="assets/img/rumors/stgL-empty.jpg" title="Close up view of completed set" class="img-fluid rounded z-depth-1" %}
