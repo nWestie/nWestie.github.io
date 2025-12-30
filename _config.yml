@@ -251,6 +251,7 @@ exclude:
   - _news
   - _bibliography
   - _pages/_*
+  - _posts/samples
 keep_files:
   - CNAME
   - .nojekyll
@@ -304,11 +305,11 @@ jekyll-archives:
     tag: archive-tag
     category: archive-category
   permalinks:
-    year: "/blog/:year/"
-    tag: "/blog/tag/:name/"
-    category: "/blog/category/:name/"
+    year: "/article/:year/"
+    tag: "/article/tag/:name/"
+    category: "/article/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
+display_tags: [] # these tags will be displayed on the front page of your blog
 # display_categories: ["sample-posts", "testing"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
