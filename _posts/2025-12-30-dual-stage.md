@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: Dual-Stage 3D Printing
 description: A research project applying dual stage control to 3D printing.
 thumbnail: assets/img/dual-stage/overlaid-cutout.png
-importance: 1
+tags: project research control-systems
+date: 2024-09-29
 ---
 -----
 
