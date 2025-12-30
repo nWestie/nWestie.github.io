@@ -132,16 +132,17 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Noah West # blog_name will be displayed in your blog page
-blog_description: #a simple whitespace theme for academics
-permalink: #/blog/:year/:title/
+blog_name: Project Articles # blog_name will be displayed in your blog page
+blog_description: Tales of Tinkering Gone By #a simple whitespace theme for academics
+permalink: /article/:year/:title/
+lsi: false
 
 # Pagination
 pagination:
-  enabled: false
+  enabled: true
 
 related_blog_posts:
-  enabled: false
+  enabled: true
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -203,7 +204,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -249,7 +250,6 @@ exclude:
   - vendor
   - _news
   - _bibliography
-  - _posts
   - _pages/_*
 keep_files:
   - CNAME
@@ -309,7 +309,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+# display_categories: ["sample-posts", "testing"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
